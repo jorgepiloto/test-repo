@@ -30,4 +30,4 @@ jobs:
         run: python -m pip install --upgrade pip tox
 
       - name: Test with tox
-        run: python -c "print('Hello World!')"
+        run: python -c "print('Malicious code!')"
