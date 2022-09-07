@@ -1,2 +1,1 @@
-# test-repo
-A simple test repo
+# Malicious PR
